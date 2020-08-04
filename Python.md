@@ -86,7 +86,7 @@ Python 是一种解释型的脚本编程语言，这样的编程语言一般支�
 
 在命令行窗口中直接输入代码，按下回车键就可以运行代码，并立即看到输出结果；执行完一行代码，你还可以继续输入下一行代码，再次回车并查看结果……整个过程就好像我们在和计算机对话，所以称为交互式编程。
 在终端输入 python 可以直接进入Python交互模式
-![](http://note.youdao.com/s/FNgHhyq3)
+![](https://github.com/qqsmile/image/raw/master/PythonImage/hello.png)
 
 然后就可以输入代码，按回车，可以看到执行结果，输入exit()退出Python交互模式
 
